@@ -1,11 +1,3 @@
-<!-- 💫 README by Chatita for AngelCLA 💫 -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=4FADF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Angel+Carrillo+from+Sinaloa,+México!;Full+Stack+Developer+💻;Lover+of+Code+and+Creativity+🚀" alt="Typing SVG" />
-
----
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelCLA.AngelCLA&" alt="Visitor Badge" />
 
 </div>
@@ -47,8 +39,6 @@ I love working on web and mobile applications, always exploring new technologies
 
 <img src="https://github-readme-stats.vercel.app/api?username=AngelCLA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=AngelCLA&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCLA&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="150" alt="Top Languages" />
 
 </div>
@@ -64,9 +54,6 @@ I love working on web and mobile applications, always exploring new technologies
 </a>
 <a href="mailto:angelcla.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://angelcla.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4FADF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
