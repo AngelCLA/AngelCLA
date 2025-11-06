@@ -1,80 +1,80 @@
-###
+<!-- 💫 README by Chatita for AngelCLA 💫 -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelCLA.AngelCLA&" alt="visitor badge"/>
-</div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I'm <strong>Angel Carrillo</strong> from <strong>Sinaloa, México</strong> 🇲🇽<br><br>
-- 🔭 I’m currently working on <strong>Java projects</strong><br>
-- 🌱 I’m learning <strong>React</strong> and <strong>React Native</strong><br>
-- ⚡ In my free time, I enjoy life and explore new technologies<br>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=4FADF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Angel+Carrillo+from+Sinaloa,+México!;Full+Stack+Developer+💻;Lover+of+Code+and+Creativity+🚀" alt="Typing SVG" />
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AngelCLA.AngelCLA&" alt="Visitor Badge" />
 
-###
+</div>
 
-<div align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
+---
+
+### 👨‍💻 About Me
+
+Hi! I'm **Angel Carrillo**, a passionate developer from **Sinaloa, México 🇲🇽** who enjoys turning ideas into digital experiences.  
+I love working on web and mobile applications, always exploring new technologies and improving my skills.  
+
+- 🔭 Currently working on **Java projects**  
+- 🌱 Learning **React**, **React Native**, and **modern web development**  
+- 🎯 Interested in **clean architecture, UI/UX**, and **cloud deployment**  
+- ⚡ Fun fact: I love coffee, sunsets, and solving logic challenges ☕🌅  
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,flutter,dart" />
+
+#### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=java,php,mysql,nodejs,firebase,supabase" />
+
+#### ☁️ Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AngelCLA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=AngelCLA&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCLA&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="150" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/angel-carrillo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:angelcla.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://angelcla.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4FADF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
   
-  <!-- Backend & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+✨ _“Code is like art — every line tells a story.”_ ✨  
+
 </div>
-
----
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelCLA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=AngelCLA&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <h3>🌎 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/angel-carrillo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:angelcla.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28" alt="Gmail"/>
-  </a>
-</div>
-
-###
