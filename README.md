@@ -1,67 +1,26 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AngelCLA.AngelCLA&" alt="Visitor Badge" />
+# Angel Carrillo
 
-</div>
+Developer passionate about web and mobile applications. Based in Sinaloa, México 🇲🇽
 
----
-
-### 👨‍💻 About Me
-
-Hi! I'm **Angel Carrillo**, a passionate developer from **Sinaloa, México 🇲🇽** who enjoys turning ideas into digital experiences.  
-I love working on web and mobile applications, always exploring new technologies and improving my skills.  
-
-- 🔭 Currently working on **Java projects**  
-- 🌱 Learning **React**, **React Native**, and **modern web development**  
-- 🎯 Interested in **clean architecture, UI/UX**, and **cloud deployment**  
-- ⚡ Fun fact: I love coffee, sunsets, and solving logic challenges ☕🌅  
-
----
-
-### 🛠️ Tech Stack
+## Projects
 
 <div align="center">
-
-#### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,flutter,dart" />
-
-#### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=java,php,mysql,nodejs,firebase,supabase" />
-
-#### ☁️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman" />
-
+  <a href="https://www.claangel.site/projects/edi-upmys/">
+    <img src="https://www.claangel.site/projects/edi-upmys/edi.png" alt="EDI UPMYS" width="400" />
+  </a>
+  <a href="https://www.claangel.site/projects/tf-clinica/">
+    <img src="https://www.claangel.site/projects/tf-clinica/TF-Clinica.png" alt="TF Clinica" width="400" />
+  </a>
 </div>
 
----
+## Tech Stack
 
-### 📊 GitHub Stats
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js  
+**Backend:** Java, PHP, Node.js  
+**Databases:** MySQL, Firebase, Supabase  
+**Tools:** Git, GitHub, VS Code, Linux
 
-<div align="center">
+## Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelCLA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCLA&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="150" alt="Top Languages" />
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/angel-carrillo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:angelcla.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-✨ _“Code is like art — every line tells a story.”_ ✨  
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/angel-carrillo)
+- [Email](mailto:angelcla.dev@gmail.com)
